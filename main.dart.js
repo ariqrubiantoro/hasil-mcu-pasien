@@ -21974,9 +21974,11 @@ case 2:return A.M(null,r)}})
 return A.N($async$a6A,r)},
 a6z:function a6z(a){this.a=a},
 a6B:function a6B(){},
-z8:function z8(a,b,c){this.e=a
-this.ok=b
-this.a=c},
+z8:function z8(a,b,c,d){var _=this
+_.e=a
+_.as=b
+_.ok=c
+_.a=d},
 a6x:function a6x(a){this.a=a},
 a6w:function a6w(a){this.a=a},
 a6u:function a6u(a){this.a=a},
@@ -77375,7 +77377,7 @@ p=A.avB(B.aK,m)
 o=A.avB(B.aK,m)
 n=$.atw().a
 if(n==null)n=m
-n=new A.pM(r,a.p1,q.e,B.aDo,m,m,m,m,s,m,m,m,m,q.gafu(),"",m,p,o,B.I6,m,n,m,m,m,B.zg,!1,!1,!1,!1,!1,m,m,!1,!1,m)
+n=new A.pM(r,a.p1,q.e,B.aDo,m,m,m,m,s,m,m,m,m,q.gafu(),q.as,m,p,o,B.I6,m,n,m,m,m,B.zg,!1,!1,!1,!1,!1,m,m,!1,!1,m)
 s=n
 return s},
 $S:424}
@@ -88698,7 +88700,7 @@ if(q.f!=null)A.Lc($.cm(),new A.pm(null),p)
 else A.Lc($.cm(),new A.k6(null),p)
 return A.M(null,r)}})
 return A.N($async$fM,r)},
-Y(a){return new A.z8(new A.k6(null),!1,null)}}
+Y(a){return new A.z8(new A.k6(null),"Arifa Medikal Klinik | Cek Hasil MCU",!1,null)}}
 A.ao8.prototype={
 $0(){var s=A.bE(J.b0(this.b.a,"nikUser"))
 s.toString
